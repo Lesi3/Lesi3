@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-iselvilloldoguerrero%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:iselvilloldoguerrero@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isel%20Villoldo-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Location](https://img.shields.io/badge/Ubicación-Madrid%2C%20España-red?style=flat-square&logo=google-maps)]()
-[![Phone](https://img.shields.io/badge/Teléfono-%2B34%20644%2084%2098%2055-green?style=flat-square&logo=whatsapp)]()
 
 ---
 
