@@ -16,7 +16,7 @@ Desarrollador full-stack con experiencia en aplicaciones web con **ASP.NET MVC, 
 
 ## 💼 Experiencia Laboral
 
-### 🔷 Software Developer — [NEVERHACK]([https://neverhack.com](https://www.linkedin.com/company/neverhack))
+### 🔷 Software Developer — [NEVERHACK](https://www.linkedin.com/company/neverhack)
 `Julio 2024 – Actualidad` · Madrid, España *(Híbrido)*
 
 - Desarrollo y mantenimiento de aplicaciones web full-stack con **ASP.NET MVC, C#, Java y Python**
